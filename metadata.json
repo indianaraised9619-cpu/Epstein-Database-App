@@ -1,0 +1,6 @@
+{
+  "name": "Epstein Files Archive",
+  "description": "Fully searchable database of unsealed Epstein court files, flight logs, depositions, and keyword-based document analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
